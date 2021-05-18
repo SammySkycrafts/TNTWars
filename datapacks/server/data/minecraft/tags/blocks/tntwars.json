@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		"stone_bricks",
+		"honey_block",
+		"slime_block",
+		"sponge",
+		"sticky_piston",
+		"piston",
+		"observer",
+		"stone_brick_slab",
+		"redstone_block",
+		"dispenser",
+		"oak_fence",
+		"tnt"
+	]
+}
